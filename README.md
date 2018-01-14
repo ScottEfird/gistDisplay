@@ -7,4 +7,9 @@ https://developer.github.com/v3/gists/
 
 Uses React Router to navigate between list and detail views
 
+```
+npm install
+npm run dev
+```
+
 ![Sample image](./Sample.PNG)
